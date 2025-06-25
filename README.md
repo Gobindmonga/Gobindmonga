@@ -26,9 +26,9 @@ Currently exploring the exciting world of **DevOps**, **Cloud Computing**, and *
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [Khataease](https://github.com/Gobindmonga/Khataease) | A financial record-keeping app like Khatabook | React.js, Node.js, Express.js |
+| [Propertyease](https://propertyease.in/) | A financial record-keeping app like Khatabook | React.js, Node.js, Express.js |
 | [SkyCast](https://github.com/Gobindmonga/SkyCast) | Android weather forecast app using OpenWeatherMap API | Java / Android |
-| [Portfolio Website](https://github.com/Gobindmonga/Portfolio) | Personal portfolio built with React & Tailwind | React.js, Tailwind CSS |
+| [Genv Websters]([https://genvwebsters.com/) | | Business website built with modern stack for digital growth | Next.js, Tailwind CSS, Framer Motion |
 
 ---
 
