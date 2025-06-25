@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Gobind Monga
 
-🎓 MCA Graduate | 💻 Software Developer | 🚀 Future DevOps Engineer  
-📍 Based in India | 📅 Joining soon as Integration Engineer at Okie Dokie
+🎓 MCA Graduate | 💻 Software Developer |📍 Based in India 
+ 📅 Joining soon as Integration Engineer at Okie Dokie
 
 ---
 
@@ -9,7 +9,6 @@
 
 I'm a passionate software developer with a strong foundation in full-stack development using modern technologies like **React.js**, **Node.js**, **Express**, **Tailwind CSS**, and **MySQL**. I love building real-world applications that solve problems and create impact.
 
-Currently exploring the exciting world of **DevOps**, **Cloud Computing**, and **CI/CD pipelines**.
 
 ---
 
@@ -40,11 +39,5 @@ Currently exploring the exciting world of **DevOps**, **Cloud Computing**, and *
 
 ---
 
-### 🔭 Currently:
-- Polishing my skills in **DevOps & Cloud (AWS, Docker, CI/CD)**
-- Building a strong GitHub and LinkedIn presence
-- Preparing to start my professional journey at Okie Dokie 🚀
-
----
 
 *Thanks for visiting my profile! 🙌*
