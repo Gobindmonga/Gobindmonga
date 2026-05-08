@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Gobind Monga
 
 🎓 MCA Graduate | 💻 Software Developer |📍 Based in India 
- 📅 Joining soon as Integration Engineer at Okie Dokie
+ 📅Integration Engineer at Okie Dokie
 
 ---
 
